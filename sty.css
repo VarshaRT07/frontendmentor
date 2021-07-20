@@ -8,8 +8,8 @@ body{
     height: 455px;
     box-sizing: border-box;
     display: flex;
-    transform: translate(40%,25%);
-    border-radius: 8px;
+    transform: translate(40%,20%);
+    border-radius: 9px;
  
 }
 .left{
@@ -40,7 +40,7 @@ p{
 }
 h3{
     color:hsl(0, 0%, 95%) ;
-    font-size:28px;
+    font-size:25px;
     font-weight: bold;
 }
 a{

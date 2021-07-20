@@ -5,7 +5,7 @@ body{
 .card{
     position: absolute;
     width: 800px;
-    height: 455px;
+    height: 420px;
     box-sizing: border-box;
     display: flex;
     transform: translate(40%,25%);
@@ -62,7 +62,7 @@ a{
     color: hsl(31, 77%, 52%);
 }
 #l2{
-    padding-top:30px;
+/*     padding-top:30px; */
     color: hsl(184, 100%, 22%);
 }
 #l3{

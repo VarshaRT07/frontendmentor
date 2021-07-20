@@ -9,7 +9,6 @@ body{
     box-sizing: border-box;
     display: flex;
     transform: translate(40%,25%);
-    border-radius: 9px;
  
 }
 .left{
@@ -17,7 +16,7 @@ body{
     padding: 40px;
     width:274pv;
     background-color:  hsl(31, 77%, 52%);
-    border-radius: 7px 0px 0px 7px;
+    border-radius: 8px 0px 0px 8px;
 
 }
 .middle{
@@ -29,12 +28,12 @@ body{
     float: right; 
     padding: 40px;
     background-color:hsl(179, 100%, 13%);
-    border-radius: 0px 7px 7px 0px;
+    border-radius: 0px 8px 8px 0px;
 
 }
 p{
     color: hsla(0, 0%, 100%, 0.75);
-    font-size: 15px;
+    font-size: 14px;
     font-family: 'Lexend Deca';
     font-weight: lighter;
 }
@@ -54,7 +53,7 @@ a{
     font-size: 17px; 
 }
 .link{
-    transform: translate(-3px,50px);
+    transform: translate(-3px,45px);
 
 }
 

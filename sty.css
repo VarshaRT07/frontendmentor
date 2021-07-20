@@ -5,10 +5,10 @@ body{
 .card{
     position: absolute;
     width: 800px;
-    height: 470px;
+    height: 455px;
     box-sizing: border-box;
     display: flex;
-    transform: translate(40%,28%);
+    transform: translate(40%,25%);
     border-radius: 7px;
  
 }
